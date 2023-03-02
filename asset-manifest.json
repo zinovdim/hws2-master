@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zinovdim/hws2-master.git/static/css/main.6a6b87b0.css",
+    "main.js": "/zinovdim/hws2-master.git/static/js/main.7c3cc696.js",
+    "static/js/787.66cb4309.chunk.js": "/zinovdim/hws2-master.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/zinovdim/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/zinovdim/hws2-master.git/index.html",
+    "main.6a6b87b0.css.map": "/zinovdim/hws2-master.git/static/css/main.6a6b87b0.css.map",
+    "main.7c3cc696.js.map": "/zinovdim/hws2-master.git/static/js/main.7c3cc696.js.map",
+    "787.66cb4309.chunk.js.map": "/zinovdim/hws2-master.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6b87b0.css",
+    "static/js/main.7c3cc696.js"
+  ]
+}
