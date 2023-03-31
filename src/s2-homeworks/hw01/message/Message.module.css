@@ -3,26 +3,26 @@
 }
 
 .imageAndText {
-    text-align: right;
-    margin-left: 80px;
-    padding: 7px 15px;
+    /*text-align: right;*/
+    /*margin-left: 80px;*/
+    /*padding: 7px 15px;*/
 
 }
 
 .imageAndText img {
-    width: 50px;
-    height: 50px;
-    margin-left: 30px;
+    /*width: 50px;*/
+    /*height: 50px;*/
+    /*margin-left: 30px;*/
 }
 
 .text {
-    text-align: right;
-    width: 500px;
-    min-height: 50px;
-    height: max-content;
-    margin-left: 700px;
-    padding: 7px 10px;
-    background: #0066cc;
+    /*text-align: right;*/
+    /*width: 500px;*/
+    /*min-height: 50px;*/
+    /*height: max-content;*/
+    /*margin-left: 700px;*/
+    /*padding: 7px 10px;*/
+    /*background: #0066cc;*/
 
 }
 
@@ -39,11 +39,11 @@
 }
 
 .time {
-    text-align: right;
-    width: 660px;
-    min-height: 50px;
-    height: max-content;
-    margin-left: 700px;
-    padding: 15px 10px;
+    /*text-align: right;*/
+    /*width: 660px;*/
+    /*min-height: 50px;*/
+    /*height: max-content;*/
+    /*margin-left: 700px;*/
+    /*padding: 15px 10px;*/
 
 }
