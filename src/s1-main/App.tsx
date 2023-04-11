@@ -14,7 +14,7 @@ import HW6 from "../s2-homeworks/hw06/HW6";
 function App() {
     return (
         <div className={s.App}>
-            {/*<HW1/>*/}
+            <HW1/>
             {/*раскомментировать по ходу выполнения*/}
             {/*<HW2/>*/}
             {/*<HW3/>*/}
